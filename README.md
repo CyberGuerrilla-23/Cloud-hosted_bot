@@ -1,2 +1,9 @@
 # Cloud-hosted_bot
-Install ffmpeg for playing songs and create a bot using Discord Developer page and paste its token in config file
+
+Create a bot using Discord Developer page and paste its token , your role id and Youtube API key in config file
+
+Install ffmpeg for playing songs
+
+Install Node.js
+
+Install ytdl-core and opusscript from npm
